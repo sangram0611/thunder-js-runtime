@@ -1,4 +1,4 @@
-# ⚡ Thunder JS Runner
+#   JS Runner using Python
 
 A lightweight JavaScript runtime built for **Thunder Hackathon 2.0**.
 
